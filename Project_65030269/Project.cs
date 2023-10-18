@@ -12,7 +12,8 @@ namespace Project_65030269
         {
             Phai = 1,
             Da = 2,
-            Chatlada = 3
+            Chatlada = 3,
+            Khim = 4
         }
     }
 }
